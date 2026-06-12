@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gehmit-green: #0E6441;
+  --color-gehmit-green-hover: #0A4F33;
+  --color-gehmit-green-light: #e6f4ec;
+  --color-gehmit-green-dark: #083B26;
+  --color-gehmit-green-vibrant: #10b981;
+}

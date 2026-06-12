@@ -1,0 +1,6 @@
+{
+  "name": "Gehmit TechPath",
+  "description": "Plateforme d'orientation, de diagnostic et de parcours d'apprentissage personnalisés pour les carrières dans les TIC en Afrique francophone. Une initiative de Gehmit (gehmit.org).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
